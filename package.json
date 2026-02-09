@@ -1,0 +1,20 @@
+{
+  "name": "duckflix",
+  "module": "index.ts",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:back": "bun --filter @duckflix/backend dev",
+    "dev:front": "bun --filter @duckflix/frontend dev"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "private": true,
+  "type": "module"
+}
