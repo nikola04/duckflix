@@ -1,3 +1,7 @@
+# uploads
+storage/
+upload/
+
 # dependencies (bun install)
 node_modules
 
