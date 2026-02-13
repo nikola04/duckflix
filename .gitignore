@@ -1,6 +1,6 @@
 # uploads
 storage/
-upload/
+temp/
 
 # dependencies (bun install)
 node_modules
