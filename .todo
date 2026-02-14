@@ -1,14 +1,23 @@
+SYSTEM
+
+- Optimize FFMPEG processing
+- User Notifications
+- Streaming error: Error: Request aborted
+- Check if torrent is deleting .torrent file correctly on error
+
 WATCH
 
 - Seeking
-- Config: speed
-- Subtitles
 - Volume seeking
+- Subtitles
+- Cast
 
 SEARCH
 
 - UI
+- Filters
 
-SYSTEM
+LIBRARY
 
-- User Notifications
+- UI
+- Add to Library
