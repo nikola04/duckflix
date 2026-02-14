@@ -1,8 +1,6 @@
 SYSTEM
 
 - Optimize FFMPEG processing
-- User Notifications
-- Streaming error: Error: Request aborted
 - Check if torrent is deleting .torrent file correctly on error
 
 WATCH
