@@ -2,6 +2,7 @@ SYSTEM
 
 - Optimize FFMPEG processing
 - Check if torrent is deleting .torrent file correctly on error
+- Library
 
 WATCH
 
@@ -12,7 +13,6 @@ WATCH
 
 SEARCH
 
-- UI
 - Filters
 
 LIBRARY
